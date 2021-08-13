@@ -1,0 +1,11 @@
+name: mass-maps
+title:
+username:
+account: massmaps
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4009474
+bundleId: 4502037
+url: https://massmaps.shinyapps.io/mass-maps/
+when: 1619040392.06385
+lastSyncTime: 1619040392.06387
